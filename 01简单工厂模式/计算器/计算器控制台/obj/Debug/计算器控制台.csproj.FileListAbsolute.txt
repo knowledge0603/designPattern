@@ -1,0 +1,9 @@
+E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.exe
+E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.pdb
+C:\Users\Administrator\Desktop\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.exe
+C:\Users\Administrator\Desktop\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.pdb
+C:\Users\Administrator\Desktop\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\计算器控制台\bin\Debug\计算器控制台.exe
+C:\Users\Administrator\Desktop\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\计算器控制台\bin\Debug\计算器控制台.pdb
+C:\Users\Administrator\Desktop\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\计算器控制台\bin\Debug\OperationLibrary.dll
+C:\Users\Administrator\Desktop\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\计算器控制台\bin\Debug\OperationLibrary.pdb
+C:\Users\Administrator\Desktop\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.csprojResolveAssemblyReference.cache

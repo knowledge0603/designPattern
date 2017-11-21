@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式03\建造者模式\obj\Debug\建造模式.exe
+C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式03\建造者模式\obj\Debug\建造模式.pdb
+C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式03\建造者模式\bin\Debug\建造模式.exe
+C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式03\建造者模式\bin\Debug\建造模式.pdb
+C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式03\建造者模式\obj\Debug\建造者模式.Form1.resources
+C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式03\建造者模式\obj\Debug\建造模式.Properties.Resources.resources
+C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式03\建造者模式\obj\Debug\建造者模式.csproj.GenerateResource.Cache

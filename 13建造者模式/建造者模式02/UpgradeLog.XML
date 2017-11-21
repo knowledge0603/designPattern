@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="建造者模式">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\建造者模式.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\建造者模式.suo">
+</Property><Property Name="Date" Value="2017年4月1日">
+</Property><Property Name="Time" Value="16:03">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="建造者模式.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式.sln">
+</Event><Event ErrorLevel="0" Project="" Source="建造者模式.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式.suo">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\建造者模式.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式\建造者模式.csproj">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\PersonBuilder.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式\PersonBuilder.cs">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\Form1.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式\Form1.cs">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\Form1.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\Program.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式\Program.cs">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\Form1.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式\Form1.resx">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\rk\xf\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\13建造者模式\建造者模式02\Backup\建造者模式\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="建造者模式" Source="建造者模式\建造者模式.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\建造者模式.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="建造者模式" Source="建造者模式\建造者模式.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="建造者模式.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="建造者模式.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="建造者模式" Source="建造者模式\建造者模式.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="计算器">
+</Property><Property Name="解决方案文件" Value="E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\计算器.sln">
+</Property><Property Name="用户选项文件" Value="E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\计算器.suo">
+</Property><Property Name="Date" Value="2016年12月1日">
+</Property><Property Name="Time" Value="8:54">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="计算器.sln" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器.sln">
+</Event><Event ErrorLevel="0" Project="" Source="计算器.suo" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器.suo">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\计算器.csproj" Description="项目文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器\计算器.csproj">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\Form1.cs" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器\Form1.cs">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\Form1.Designer.cs" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\Program.cs" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器\Program.cs">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\ClassDiagram1.cd" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\Properties\Settings.settings" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\Form1.resx" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器\Form1.resx">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\Properties\Resources.resx" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="计算器" Source="计算器\计算器.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\计算器.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="计算器" Source="计算器\计算器.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OperationLibrary" Source="OperationLibrary\OperationLibrary.csproj" Description="项目文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\OperationLibrary\OperationLibrary.csproj">
+</Event><Event ErrorLevel="0" Project="OperationLibrary" Source="OperationLibrary\Operation.cs" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\OperationLibrary\Operation.cs">
+</Event><Event ErrorLevel="0" Project="OperationLibrary" Source="OperationLibrary\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\OperationLibrary\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="OperationLibrary" Source="OperationLibrary\OperationLibrary.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="OperationLibrary" Source="OperationLibrary\OperationLibrary.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="OperationLibrary" Source="OperationLibrary\OperationLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="计算器控制台" Source="计算器控制台\计算器控制台.csproj" Description="项目文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器控制台\计算器控制台.csproj">
+</Event><Event ErrorLevel="0" Project="计算器控制台" Source="计算器控制台\Program.cs" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器控制台\Program.cs">
+</Event><Event ErrorLevel="0" Project="计算器控制台" Source="计算器控制台\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\Downloads\大话设计模式（带目录完整版）[中文PDF+源代码]\大话设计模式（带目录完整版）[中文PDF+源代码]\大话模式源代码\大话模式源代码\01简单工厂模式\计算器\Backup\计算器控制台\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="计算器控制台" Source="计算器控制台\计算器控制台.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="计算器控制台" Source="计算器控制台\计算器控制台.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="计算器控制台" Source="计算器控制台\计算器控制台.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="计算器.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="计算器.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="计算器" Source="计算器\计算器.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="OperationLibrary" Source="OperationLibrary\OperationLibrary.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="计算器控制台" Source="计算器控制台\计算器控制台.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
